@@ -11,12 +11,20 @@ Codex Megaphone is a script for FiveM that allows you to interact with pedestria
 
 ## Installation
 
+
 1. Download the `codex-megaphone` script from the [GitHub repository](https://github.com/5M-CodeX/codex-megaphone).
 
 2. Place the `codex-megaphone` folder inside your FiveM server's resource directory.
 
 3. Add `ensure codex-megaphone` to your server.cfg file.
+   
+4. Download `interact-sound` script from https://github.com/TheStoicBear/bears-interact-sound
 
+5. Place the `interact-sound` folder inside your server's resource directory.
+
+6. Add `ensure interact-sound` to your server.cfg file.
+
+   
 ## Usage
 
 In-game, you can use the following keybinds and commands:
